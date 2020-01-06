@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: "Raleway", sans-serif;  
 }
@@ -54,6 +58,16 @@ body {
 
 .header {
     z-index: 5;
+}
+
+#quotes {
+    i {
+        opacity: 0.3;
+    }
+}
+
+#footer {
+    font-weight: 100;
 }
 
 
